@@ -1,8 +1,10 @@
 # TA HW 1 - Char Frequency - 20 Points
 
-[![Grader Status](YOUR_GRADER_BADGE)](YOUR_GRADER_BADGE)
+[![Grader Status](https://kntu-grader.herokuapp.com/minimal?repo=tahw1-char-frequency-Arinaakh&id=9732303
 
-YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?repo=<REPO_NAME>&id=<YOUR_STUDENT_ID>
+)](YOUR_GRADER_BADGE)
+
+YOUR_GRADER_BADGE looks like this:
 
 
 
